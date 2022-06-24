@@ -1,5 +1,5 @@
 {
-  "name": "Onenote with Tauri",
+  "name": "onenote",
   "scripts": {
     "tauri": "tauri"
   },
